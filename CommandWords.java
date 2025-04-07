@@ -9,7 +9,8 @@ import java.util.HashMap;
  *
  * @author  Michael Kölling and David J. Barnes
  * @version 2016.02.29
- * 
+ *------- ANSWERS ---------------------
+ * 34) it works as expected
  * 36) You just change the CommandWords class
  * This shows the input words are separate from the game logic.
  * 37) the welcome message still says 'help'

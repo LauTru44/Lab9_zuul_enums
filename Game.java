@@ -114,8 +114,8 @@ public class Game
             case GO:
                 goRoom(command);
                 break;
-                
-            case LOOK: //Exercise 35
+            //exercise 35    
+            case LOOK: 
             look();
             break;    
             
